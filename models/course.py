@@ -8,4 +8,4 @@ class Course(Base):
     id = Column(Integer, primary_key=True)
     name = Column(String, unique=True, nullable=False)
 
-    students = relationship("Student", backref="course_obj")
+    students = relationship("Student", back_populates="course")
