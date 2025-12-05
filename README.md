@@ -158,7 +158,7 @@ Assign a course ID
 
 Saved into the database
 
-✅ 2. Record Attendance
+    2. Record Attendance
 
 Choose student by admission number
 
@@ -166,7 +166,7 @@ Provide date (YYYY-MM-DD)
 
 Mark Present/Absent
 
-✅ 3. Generate Reports
+    3. Generate Reports
 
 Student attendance summary
 
@@ -174,13 +174,13 @@ Date-based attendance list
 
 Total Present vs Absent
 
-✅ 4. Search & List
+    4. Search & List
 
 View all students
 
 Search by name/course/admission number
 
-📊 Example Reports
+    Example Reports
 Student Attendance Report
 Report for John Doe (ADM001)
 --------------------------------------------------
