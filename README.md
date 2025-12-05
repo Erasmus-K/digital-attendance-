@@ -197,7 +197,7 @@ Attendance for 2025-01-12
 ----------------------------------------
 Total students recorded: 2
 
-🧪 Technologies Used
+    Technologies Used
 Tech	Purpose
 Python	Language
 SQLAlchemy ORM	Database layer
