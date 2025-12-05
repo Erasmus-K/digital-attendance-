@@ -19,7 +19,7 @@ This project adheres to Phase 3 requirements:
 
 The system is simple enough for beginners but structured professionally for scalability.
 
-🎯 Learning Goals (Phase 3 Requirements)
+ Learning Goals (Phase 3 Requirements)
 
 This project demonstrates proficiency in:
 
@@ -65,7 +65,7 @@ Dictionaries for mapping
 
 Tuples returned from CRUD operations
 
-📂 Project Folder Structure
+ Project Folder Structure
 digital_attendance_app/
 │
 ├── Pipfile
@@ -96,7 +96,7 @@ digital_attendance_app/
 
 This structure ensures clean, scalable, and testable code.
 
-⚙️ Installation & Setup
+    Installation & Setup
 ✔ 1. Install Python 3.8+
 ✔ 2. Create a Pipenv Environment
 
@@ -110,7 +110,7 @@ pipenv install sqlalchemy tabulate
 ✔ 4. Activate Environment
 pipenv shell
 
-🗄️ Database Setup
+     Database Setup
 
 The database file attendance.db is created automatically using SQLAlchemy when you run:
 
@@ -135,7 +135,7 @@ id	Integer (PK)
 date	String (YYYY-MM-DD)
 status	“Present” / “Absent”
 student_id	FK -> students.id
-🚀 How to Run the Application
+     How to Run the Application
 python app.py
 
 
@@ -147,8 +147,8 @@ After starting, you will see a menu like:
 3. View report
 0. Exit
 
-🧑‍💼 Features / How It Works
-✅ 1. Register Students
+     Features / How It Works
+     1. Register Students
 
 Assign admission number
 
