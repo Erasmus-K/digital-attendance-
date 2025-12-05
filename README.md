@@ -192,8 +192,8 @@ Total: 2 | Present: 1 | Absent: 1
 Date Attendance Report
 Attendance for 2025-01-12
 ----------------------------------------
-ADM001 - John Doe : Present
-ADM002 - Mary Jane : Absent
+5324 - Erasmus kipkosgei : Present
+18354 - Brenda Jebet : Absent
 ----------------------------------------
 Total students recorded: 2
 
