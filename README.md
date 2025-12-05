@@ -1,10 +1,10 @@
-📘 Digital Class Attendance Application (CLI + ORM)
+     Digital Class Attendance Application (CLI + ORM)
 
 Developer: Erasmus Kipkosgei
 
 A Python Phase 3 Project | SQLAlchemy ORM | Pipenv | CLI Menu System
 
-📌 Project Overview
+     Project Overview
 
 The Digital Class Attendance Application is a Python-based Command Line Interface (CLI) system designed for registering students, managing course assignments, recording attendance, and generating reports.
 
