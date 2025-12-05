@@ -12,4 +12,3 @@ class Student(Base):
     course_id = Column(Integer, ForeignKey("courses.id"))
 
     attendance = relationship("Attendance", back_populates="student")
-    course = relationship("Course", back_populates="students")
